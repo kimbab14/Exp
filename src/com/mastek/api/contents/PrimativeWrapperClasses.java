@@ -18,6 +18,8 @@ package com.mastek.api.contents;
  * Boolean This type wraps a boolean .
  * Wrapper classes have the following properties
  * 
+ * 
+ * 
  * @author jelica60589
  *
  */
