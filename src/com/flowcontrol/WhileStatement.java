@@ -9,7 +9,7 @@ public class WhileStatement {
 	public void dispense(int temp){
 		while ( temp >= 29){
 			System.out.println("The weather is sunny");
-			break; 
+		
 		}
 		
 		System.out.println("its raining");
