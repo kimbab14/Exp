@@ -6,7 +6,7 @@ public class DoWhileStatement {
 		
 		do{
 			System.out.println("the weather is sunny");
-			break;
+			//break;
 		}
 		while (temp >= 29);
 	}
