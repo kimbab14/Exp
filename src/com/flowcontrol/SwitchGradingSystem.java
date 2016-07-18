@@ -25,6 +25,7 @@ public class SwitchGradingSystem {
 			case "F":
 				System.out.println("Failed");
 			}
+			default:
 			break;
 	}
 	
